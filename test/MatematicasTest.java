@@ -32,7 +32,7 @@ public class MatematicasTest {
     @Test
     public void testResta(){
 
-        assertEquals(5,Matematicas.resta(3,2));
+        assertEquals(1,Matematicas.resta(3,2));
                             }
 
                                     }
